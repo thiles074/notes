@@ -1,4 +1,13 @@
 # Number Row Characters 
 
 
-
+!
+@
+#
+$
+%
+^
+&
+*
+(
+)
