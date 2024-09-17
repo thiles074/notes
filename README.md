@@ -1,8 +1,6 @@
 # Number Row Characters 
 
 
-# Number row characters
-
 - ! 
 - @ 
 - # 
