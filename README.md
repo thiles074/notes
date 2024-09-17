@@ -1,5 +1,3 @@
-# notes
-
 # Number Row Characters 
 
 
