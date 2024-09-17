@@ -1,1 +1,6 @@
 # notes
+
+# Number Row Characters 
+
+
+
